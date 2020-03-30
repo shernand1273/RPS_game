@@ -3,13 +3,13 @@
 block_cipher = None
 
 
-a = Analysis(['/home/steven/Desktop/RPS/src/main/python/main.py'],
-             pathex=['/home/steven/Desktop/RPS/target/PyInstaller'],
+a = Analysis(['/home/steven/Desktop/PythonUI/RockPaperScissorsSourceBackups/RPS/src/main/python/main.py'],
+             pathex=['/home/steven/Desktop/PythonUI/RockPaperScissorsSourceBackups/RPS/target/PyInstaller'],
              binaries=[],
              datas=[],
              hiddenimports=[],
              hookspath=['/home/steven/.local/lib/python3.6/site-packages/fbs/freeze/hooks'],
-             runtime_hooks=['/home/steven/Desktop/RPS/target/PyInstaller/fbs_pyinstaller_hook.py'],
+             runtime_hooks=['/home/steven/Desktop/PythonUI/RockPaperScissorsSourceBackups/RPS/target/PyInstaller/fbs_pyinstaller_hook.py'],
              excludes=[],
              win_no_prefer_redirects=False,
              win_private_assemblies=False,
