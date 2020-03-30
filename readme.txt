@@ -1,10 +1,6 @@
-Installation
-
-In the target folder, run:
-
-sudo dpkg -i target/RPS.deb
+This application was developed and tested on Linux Ubuntu 18.04.4 LTS, support for Windows and Mac will be added eventually.
 
 
-Uninstall
+Installation -> In 'target' folder, run: sudo dpkg -i target/RPS.deb
 
-sudo dpkg --purge RPS
+Uninstall-> sudo dpkg --purge RPS
