@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=RPS
+Type=Application
+Exec=/opt/RPS/RPS
+Terminal=false
+NoDisplay=false
+Categories=Utility;
+Version=0.0.0
+Icon=RPS

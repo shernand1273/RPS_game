@@ -1,0 +1,58 @@
+QWidget{
+    background:white;
+}
+
+QPushButton{
+    background-color:#6392ff;
+    border:none;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:20px;
+    padding-right:20px;
+    text-transform: uppercase;
+    color:white;
+    border-radius:0px;
+    font-weight:bold;
+}
+
+QPushButton:hover{
+    background-color:#4392ff;
+    color:black;
+    
+}
+
+QLabel#computerLabel,#userLabel{
+    text-transform:uppercase;
+    font-family:'tahoma';
+    font-weight:bold;
+    font-size:20px;
+}
+
+
+QLabel#userScore,#computerScore,#feedbackLabel{
+
+    font-size:20px;
+    color:green;
+
+}
+
+#min,#cls{
+    color:gray;
+    opacity:.6;
+    background-color:none;
+    font-size:20px;
+    border:none;
+    border-radius: 0;
+
+}
+
+#min:hover,#cls:hover{
+    color:white;
+    opacity:1;
+    background-color:#f54327;
+}
+
+
+
+
+
