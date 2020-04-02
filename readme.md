@@ -11,3 +11,9 @@
   <li>Cannot Guarantee compatibility in other OSs</li>
   <li>Windows and Mac compatibility to be tested and released</li>
 </ul>
+
+<h2>Installation</h2>
+<ol>
+  <li>cd to 'RPS/target'</li>
+  <li>run <b>sudo dpkg -i RPS.deb<b></li>
+  </ol>
