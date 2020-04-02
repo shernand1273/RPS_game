@@ -1,6 +1,5 @@
-This application was developed and tested on Linux Ubuntu 18.04.4 LTS, support for Windows and Mac will be added eventually.
+<h1>Rock Paper Scissors</h1>
+<p>Simple rock paper scissors game created with Python and PyQt5</p>
 
 
-Installation -> In 'target' folder, run: sudo dpkg -i target/RPS.deb
-
-Uninstall-> sudo dpkg --purge RPS
+![Image description](GamePreview.png)
