@@ -3,3 +3,11 @@
 
 
 ![Image description](GamePreview.png)
+
+
+<h2>Compatibility</h2>
+<ul>
+  <li>Linux Ubuntu 18 or above</li>
+  <li>Cannot Guarantee compatibility in other OSs</li>
+  <li>Windows and Mac compatibility to be tested and released</li>
+</ul>
