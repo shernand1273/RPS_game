@@ -14,6 +14,12 @@
 
 <h2>Installation</h2>
 <ol>
-  <li>cd to 'RPS/target'</li>
+  <li>cd to <b>RPS/target<b></li>
   <li>run <b>sudo dpkg -i RPS.deb<b></li>
+  </ol>
+    
+ <h2>Uninstall</h2>
+ <ol>
+  <li>Open Terminal</li>
+  <li>Run <b>sudo dpkg --purge RPS</b></li>
   </ol>
